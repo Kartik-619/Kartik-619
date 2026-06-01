@@ -9,7 +9,7 @@ I'm a Full-Stack Developer focused on building scalable web applications and rea
 * 🌐 Exploring Cloud & Distributed Systems
 * 🏗 Building production-grade applications with Next.js and TypeScript
 * 📚 Learning System Design, Cloud Computing, and Advanced Backend Development
-* 🎯 Goal: Become an exceptional software engineer and build products used by thousands of people
+  
 
 ---
 
