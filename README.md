@@ -20,7 +20,7 @@ I'm a Full-Stack Developer focused on building scalable web applications and rea
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,threejs,react,nextjs,nodejs,express,supabase,mongodb,mysql,postgres,prisma,redis,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,threejs,react,nextjs,nodejs,express,graphql,supabase,mongodb,mysql,postgres,prisma,redis,aws,docker,git,github" />
 
 </p>
 
