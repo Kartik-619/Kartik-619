@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Developer focused on building scalable web applications and real-world products.
 
-* 💻 MERN Stack Developer
+* 💻 TypeScript Developer
 * ⚡ Backend Engineering Enthusiast
 * 🌐 Exploring Cloud & Distributed Systems
 * 🏗 Building production-grade applications with Next.js and TypeScript
