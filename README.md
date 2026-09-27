@@ -20,13 +20,13 @@ I'm a Full-Stack Developer focused on building scalable web applications and rea
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,threejs,react,nextjs,reactnative,nodejs,express,elysia,bun,graphql,supabase,mongodb,mysql,postgres,prisma,redis,aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,threejs,react,nextjs,nodejs,express,elysia,bun,graphql,supabase,mongodb,mysql,postgres,prisma,redis,aws,docker,git,github,vercel,pnpm" />
 
 </p>
 
 
 
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)  ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)  ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)  ![Mediasoup](https://img.shields.io/badge/Mediasoup-333333?style=for-the-badge)   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)  ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)  ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)  ![Mediasoup](https://img.shields.io/badge/Mediasoup-333333?style=for-the-badge)   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)  ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge) ![React-Native](https://img.shields.io/badge/ReactNative-FE0902?style=for-the-badge)
 
 
 
